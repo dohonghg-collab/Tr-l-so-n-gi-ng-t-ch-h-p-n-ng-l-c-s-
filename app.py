@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN  HỒNG (NLS)</h1>
-    <p>Tác giả: Đỗ Thị Hồng - Trường Tiểu học Nhữ Khê - ĐT: 0378077222</p>
+    <p>Tác giả: Đỗ Thị Hồng - Trường Tiểu học Nhữ Khê - ĐT: 0378 077 222</p>
 </div>
 """, unsafe_allow_html=True)
 
